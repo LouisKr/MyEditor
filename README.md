@@ -11,6 +11,9 @@ It still has quite a few bugs and the Source code is ass because it was one of m
 
 I didnt wont to just through it away and forget about it, so here you go.
 
+VisualStudio Projekt.
+Made in c++ with [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+
 # Controlls:
 * str + "o" = open a new File.
 * str + "s" = save File.
