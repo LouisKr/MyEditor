@@ -3,7 +3,7 @@ This is my Editor.
 
 I tried creating my own little text/code Editor a while ago (9 Months) and this is the Outcome of it.
 
-It has Code highlighting and was meant to be for coding even though you can also edit normal text with no probem.
+It has Code highlighting and was meant to be for coding, even though you can also edit normal text with no probem.
 
 Its not finished by any means but it works.
 
