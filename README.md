@@ -1,7 +1,10 @@
 # MyEditor
 This is my Editor.
 
-I tried creating my own little text/code Editor a while ago (9 Months) and this is the Outcome of it.
+![alt text](https://github.com/LouisKr/MyEditor/edit/master/Pic/Editor1.PNG?raw=true)
+![alt text](https://github.com/LouisKr/MyEditor/edit/master/Pic/Editor2.PNG?raw=true)
+
+I tried creating my own little text/code Editor a while ago and this is the Outcome of it.
 
 It has Code highlighting and was meant to be for coding, though you can also edit normal text with no probem.
 
