@@ -1,8 +1,8 @@
 # MyEditor
 This is my Editor.
 
-![alt text](https://github.com/LouisKr/MyEditor/tree/master/Pic/Editor1.PNG?raw=true)
-![alt text](https://github.com/LouisKr/MyEditor/tree/master/Pic/Editor2.PNG?raw=true)
+![alt text](https://github.com/LouisKr/MyEditor/blob/master/Pic/Editor1.PNG?raw=true)
+![alt text](https://github.com/LouisKr/MyEditor/blob/master/Pic/Editor2.PNG?raw=true)
 
 I tried creating my own little text/code Editor a while ago and this is the Outcome of it.
 
